@@ -1,0 +1,2 @@
+ERROR2018/08/11 17:09:00 main.go:7: This is a Error test
+ERROR 2018/08/11 17:09:17 main.go:7: This is a Error test
