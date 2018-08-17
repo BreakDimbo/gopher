@@ -28,7 +28,7 @@ func main() {
 			fmt.Fprintf(os.Stderr, "fetch: reading %v", err)
 			os.Exit(1)
 		}
-		fmt.Printf("%s\n Code: %s", b, resp.Status)
+		fmt.Printf("%s", b)
 
 		/*
 			// ex1.7 version
